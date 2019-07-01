@@ -1,0 +1,280 @@
+/* table{
+    width:400px;
+} */
+.purple {
+    background-color: #9c27b0 !important;
+  }
+  
+  .purple-text {
+    color: #9c27b0 !important;
+  }
+  
+  .purple.lighten-5 {
+    background-color: #f3e5f5 !important;
+  }
+  
+  .purple-text.text-lighten-5 {
+    color: #f3e5f5 !important;
+  }
+  
+  .purple.lighten-4 {
+    background-color: #e1bee7 !important;
+  }
+  
+  .purple-text.text-lighten-4 {
+    color: #e1bee7 !important;
+  }
+  
+  .purple.lighten-3 {
+    background-color: #ce93d8 !important;
+  }
+  
+  .purple-text.text-lighten-3 {
+    color: #ce93d8 !important;
+  }
+  
+  .purple.lighten-2 {
+    background-color: #ba68c8 !important;
+  }
+  
+  .purple-text.text-lighten-2 {
+    color: #ba68c8 !important;
+  }
+  
+  .purple.lighten-1 {
+    background-color: #ab47bc !important;
+  }
+  
+  .purple-text.text-lighten-1 {
+    color: #ab47bc !important;
+  }
+  
+  .purple.darken-1 {
+    background-color: #8e24aa !important;
+  }
+  
+  .purple-text.text-darken-1 {
+    color: #8e24aa !important;
+  }
+  
+  .purple.darken-2 {
+    background-color: #7b1fa2 !important;
+  }
+  
+  .purple-text.text-darken-2 {
+    color: #7b1fa2 !important;
+  }
+  
+  .purple.darken-3 {
+    background-color: #6a1b9a !important;
+  }
+  
+  .purple-text.text-darken-3 {
+    color: #6a1b9a !important;
+  }
+  
+  .purple.darken-4 {
+    background-color: #4a148c !important;
+  }
+  
+  .purple-text.text-darken-4 {
+    color: #4a148c !important;
+  }
+  
+  .purple.accent-1 {
+    background-color: #ea80fc !important;
+  }
+  
+  .purple-text.text-accent-1 {
+    color: #ea80fc !important;
+  }
+  
+  .purple.accent-2 {
+    background-color: #e040fb !important;
+  }
+  
+  .purple-text.text-accent-2 {
+    color: #e040fb !important;
+  }
+  
+  .purple.accent-3 {
+    background-color: #d500f9 !important;
+  }
+  
+  .purple-text.text-accent-3 {
+    color: #d500f9 !important;
+  }
+  
+  .purple.accent-4 {
+    background-color: #aa00ff !important;
+  }
+  
+  .purple-text.text-accent-4 {
+    color: #aa00ff !important;
+  }
+  
+  .deep-purple {
+    background-color: #673ab7 !important;
+  }
+  
+  .deep-purple-text {
+    color: #673ab7 !important;
+  }
+  
+  .deep-purple.lighten-5 {
+    background-color: #ede7f6 !important;
+  }
+  
+  .deep-purple-text.text-lighten-5 {
+    color: #ede7f6 !important;
+  }
+  
+  .deep-purple.lighten-4 {
+    background-color: #d1c4e9 !important;
+  }
+  
+  .deep-purple-text.text-lighten-4 {
+    color: #d1c4e9 !important;
+  }
+  
+  .deep-purple.lighten-3 {
+    background-color: #b39ddb !important;
+  }
+  
+  .deep-purple-text.text-lighten-3 {
+    color: #b39ddb !important;
+  }
+  
+  .deep-purple.lighten-2 {
+    background-color: #9575cd !important;
+  }
+  
+  .deep-purple-text.text-lighten-2 {
+    color: #9575cd !important;
+  }
+  
+  .deep-purple.lighten-1 {
+    background-color: #7e57c2 !important;
+  }
+  
+  .deep-purple-text.text-lighten-1 {
+    color: #7e57c2 !important;
+  }
+  
+  .deep-purple.darken-1 {
+    background-color: #5e35b1 !important;
+  }
+  
+  .deep-purple-text.text-darken-1 {
+    color: #5e35b1 !important;
+  }
+  
+  .deep-purple.darken-2 {
+    background-color: #512da8 !important;
+  }
+  
+  .deep-purple-text.text-darken-2 {
+    color: #512da8 !important;
+  }
+  
+  .deep-purple.darken-3 {
+    background-color: #4527a0 !important;
+  }
+  
+  .deep-purple-text.text-darken-3 {
+    color: #4527a0 !important;
+  }
+  
+  .deep-purple.darken-4 {
+    background-color: #311b92 !important;
+  }
+  
+  .deep-purple-text.text-darken-4 {
+    color: #311b92 !important;
+  }
+  
+  .deep-purple.accent-1 {
+    background-color: #b388ff !important;
+  }
+  
+  .deep-purple-text.text-accent-1 {
+    color: #b388ff !important;
+  }
+  
+  .deep-purple.accent-2 {
+    background-color: #7c4dff !important;
+  }
+  
+  .deep-purple-text.text-accent-2 {
+    color: #7c4dff !important;
+  }
+  
+  .deep-purple.accent-3 {
+    background-color: #651fff !important;
+  }
+  
+  .deep-purple-text.text-accent-3 {
+    color: #651fff !important;
+  }
+  
+  .deep-purple.accent-4 {
+    background-color: #6200ea !important;
+  }
+  
+  .deep-purple-text.text-accent-4 {
+    color: #6200ea !important;
+  }
+
+  table{
+      width:1400px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  th,td{
+      padding: 15px;
+  }
+.white-color-text{
+    text-emphasis-color: white;
+}
+
+
+.software {
+    color: white;
+}
+#notmyInput {
+  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myTable {
+  border-collapse: collapse; /* Collapse borders */
+  width: 100%; /* Full-width */
+  border: 1px solid #ddd; /* Add a grey border */
+  font-size: 18px; /* Increase font-size */
+}
+
+#myTable th, #myTable td {
+  text-align: left; /* Left-align text */
+  padding: 12px; /* Add padding */
+}
+
+#myTable th{
+  background-color :  #26a69a 
+}
+
+#myTable tr {
+  /* Add a bottom border to all table rows */
+  border-bottom: 1px solid #ddd; 
+}
+
+#myTable tr.header, #myTable tr:hover {
+  /* Add a grey background color to the table header and on hover */
+  background-color: #f1f1f1;
+}
